@@ -1,0 +1,15 @@
+## Project introduction
+
+Conflict-Git-Helper is a tool designed to simplify the conflict resolution process of Git branch merging. In multi-person collaborative software development, code conflicts between different branches often arise, which requires developers to resolve manually. Conflict-Git-Helper is designed to provide an automated and interactive way to handle these conflicts to improve development efficiency and reduce errors.
+
+Conflict-Git-Helper provides the following main features:
+
+1. Conflict visualization: Visualize code conflicts in a visual manner, allowing developers to clearly understand the nature and scope of conflicts.
+  
+2. Intelligent merge: By analyzing the code structure and context of conflicting parts, automate attempts to merge code, reducing the effort of manually resolving conflicts.
+
+3. Interactive solutions: In cases where human intervention is required, an interactive interface is provided to guide developers through conflict resolution, and suggestions and tips are provided.
+
+4. Customization options: Allows users to customize solutions according to project requirements and personal preferences to meet the needs of different scenarios.
+
+The goal of Conflict-Git-Helper is to simplify the conflict resolution process, reduce code quality issues and development time delays caused by merge conflicts, and thus improve the team's development efficiency and collaboration experience.
